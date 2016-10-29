@@ -1,0 +1,49 @@
+h1 {
+	color: #fffdfa;
+	background-color: #08afa7;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 10px 0px 0px 0px;
+}
+
+li{
+	display: inline;
+}
+
+#Steven-Gissubel {
+	color: #fffdfa;
+	background-color: #08afa7;
+	font-size: 30px;
+	padding: 1000px 30px 30px 30px;
+	width: 100px;
+	margin-left: 155px
+}
+
+#About{
+	
+	width: 20%;
+		padding: 20px;
+		padding-left: 310px;
+}
+
+#Portfolio{
+	width: 20%;
+		padding: 20px;
+
+}
+#Contact{
+	width: 20%;
+		padding: 20px;
+
+}
+
+#Steven-Gissubel
+#About
+#Portfolio
+#Contact{
+		padding-right: 155px;
+
+}
