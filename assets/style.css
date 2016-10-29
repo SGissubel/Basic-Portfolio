@@ -81,9 +81,19 @@ h1 {
 	
 }
 
-#About-Me {
+.About-Me {
+	float:left;
 	clear: both;
 }
+
+.container {
+	width: 20%;
+}
+
+#word {
+	width: 70%;
+}
+
 
 #github {
 	height: 62px;
