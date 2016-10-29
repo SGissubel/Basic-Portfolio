@@ -1,8 +1,28 @@
 /*h1 {
 	color: #fffdfa;
 	background-color: #08afa7;
+}*/
+
+* {
+	box-sizing: border-box;
 }
-*/
+
+
+
+#header {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background-color: white;
+	position: relative;	
+	margin: 0 0 2 0;
+	padding: 10px 10px 30px 10px;
+	border-bottom: solid;
+	border-bottom-width: 2px;
+
+}
+body {
+	background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/brickwall.png");
+	position: static;
+}
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -13,13 +33,18 @@ li{
 	display: inline;
 }
 
+h1 {
+	color: #08afa7
+}
+
 #Steven-Gissubel {
 	color: #fffdfa;
 	background-color: #08afa7;
 	font-size: 30px;
 	padding: 1000px 30px 30px 30px;
 	width: 100px;
-	margin-left: 155px
+	margin-left: 155px;
+	position: static;
 }
 
 #About{
@@ -40,13 +65,55 @@ li{
 
 }
 
-#Steven-Gissubel,
 #About,
 #Portfolio,
-#Contact{
+#Contact {
+	padding-top: 20px;
+	position: static;
+	text-align: center;
+	
+}
 
+.container{
+	border-bottom-width: 5px;
+	border-bottom: solid;
+ 	text-decoration-line: underline;
+	
 }
 
 #About-Me {
 	clear: both;
 }
+
+#github {
+	height: 62px;
+	width: 62px;
+}
+
+#linkedin {
+	height: 62px;
+	width: 62px;
+}
+
+#stackoverflow{
+	height: 62px;
+	width: 62px;
+}
+
+footer{
+	/*can't increase border top width?
+	Can't get rid of space on bottom and sides
+	(for the header either)*/
+	border-top-width: 5px;
+	border-top: solid #08afa7;
+	background-color: #666666;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	color: white;
+}
+/*.container {
+ 	text-decoration-line: underline;
+ 	}*/
