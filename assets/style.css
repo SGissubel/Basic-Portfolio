@@ -127,7 +127,7 @@ h1 {
 */	padding-bottom: 50px;
 	position: relative;
 	background: white;
-	margin-bottom: 0px;
+	margin-bottom: auto;
 	padding-left: 30px;
 	padding-right: 30px;
 	float:left;
