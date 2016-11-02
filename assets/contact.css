@@ -100,8 +100,8 @@ h1 {
 	width: 650px;
 	margin-left: 160px;
 	margin-top: -2.5%;
-/*	padding: 0 50 0 50;
-*/	padding-bottom: 50px;
+	padding-top: 0px;
+	padding-bottom: 50px;
 	position: relative;
 	background: white;
 	margin-bottom: 133px;

@@ -82,21 +82,21 @@ h1 {
 	width: 20%;
 }
 
-#image {
+/*#image {
 	background: white;
 	float: left;
 	width: 31%;
-}
+}*/
 
-.paragraph {
+/*.paragraph {
 	background: white;
 	float: left;
 	width: 69%;
-}
+}*/
 
 
 
-.contact {
+.Portfolio {
 	width: 650px;
 	margin-left: 160px;
 	margin-top: -2.5%;
@@ -112,23 +112,17 @@ h1 {
 }
 
 #github {
-	/*position: static;
-	float: left;*/
 	height: 60px;
 	width: 60px;
 }
 
 #linkedin {
-	/*position: static;
-	float: left;*/
 	margin-left: 4px;
 	height: 60px;
 	width: 60px;
 }
 
 #stackoverflow{
-	/*position: static;
-	float: left;*/
 	margin-left: 4px;
 	height: 60px;
 	width: 60px;
@@ -145,47 +139,14 @@ h1 {
 
 }
 
-
-
-input[type=text], select {
-    width: 100%;
-    padding: 12px 12px;
-    margin: 8px 3px;
-    margin-bottom: 25px;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 1px;
-    box-sizing: border-box;
+#duckhunt,
+#moto,
+#virtual,
+#photo {
+	margin-left: 30px;
 }
 
-#message {
-	width: 100%;
-	padding: 12px 20px;
-	padding-bottom: 150px;
-	box-sizing: border-box;
-	border-radius: 4px;
-	resize: none;
-}
 
-input[type=submit] {
-    width: 20%;
-    background-color: #08afa7;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 10;
-    border: none;
-    border-radius: 1px;
-    cursor: pointer;
-}
-
-input[type=submit]:hover {
-    background-color: #080000;
-}
-
-div {
-    border-radius: 5px;
-    padding: 20px;
-}
 
 footer {
     background-color: #666666 ;
