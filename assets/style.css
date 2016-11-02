@@ -189,7 +189,7 @@ footer {
     width: 100%;
     border-top: 8px solid #4aaaa5 ;
     padding: 40px;
-    position: fixed;
+    position: absolute;
     bottom: 0px;
 }
 

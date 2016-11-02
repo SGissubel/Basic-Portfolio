@@ -142,11 +142,62 @@ h1 {
 #duckhunt,
 #moto,
 #virtual,
+#localbar,
 #photo {
 	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.duckhunt,
+.moto,
+.photo,
+.virtual,
+.localbar {
+	position: relative;
+	float: left;
+	width: 50%;
+}
+
+#Duckhunter,
+#motoracer,
+#pixels,
+#sunset,
+#bar {
+	position: absolute;
+	top:200px;
+	left: 7.5px;
+	width: 100%;
+	text-align: center;
+}
+
+#Duckhunter span,
+#motoracer span,
+#pixels span,
+#sunset span,
+#bar span {
+	color: white; 
+	font: bold 24px/45px Helvetica, Sans-Serif; 
+	background: #08afa7;
+	padding: 20px; 
+	width: 250px;
+}
+
+#bar span.spacer {
+	padding:0 5px;
 }
 
 
+#footer {
+    background-color: #666666 ;
+    text-align: center;
+    width: 100%;
+    border-top: 8px solid #4aaaa5 ;
+    padding: 40px;
+    position: absolute;
+    bottom: -754px;
+    vertical-align: bottom;
+}
 
 footer {
     background-color: #666666 ;
@@ -154,8 +205,9 @@ footer {
     width: 100%;
     border-top: 8px solid #4aaaa5 ;
     padding: 40px;
-    position: fixed;
-    bottom: 0px;
+    position: absolute;
+    bottom: -754px;
+    vertical-align: bottom;
 }
 
 

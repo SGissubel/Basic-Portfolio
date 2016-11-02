@@ -193,8 +193,8 @@ footer {
     width: 100%;
     border-top: 8px solid #4aaaa5 ;
     padding: 40px;
-    position: fixed;
-    bottom: 0px;
+    position: absolute;
+    bottom: -154px;
 }
 
 
