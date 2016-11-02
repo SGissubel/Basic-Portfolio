@@ -4,7 +4,9 @@
 	box-sizing: border-box;
 }
 
-
+.wrapper {
+	margin: 0 auto -100px;
+}
 
 #header {
 	font-family: 'Georgia', Times, Times New Roman, serif;
@@ -184,7 +186,7 @@ input[type=submit]:hover {
 
 div {
     border-radius: 5px;
-    padding: 20px;
+    padding: 0px;
 }
 
 footer {
@@ -194,7 +196,7 @@ footer {
     border-top: 8px solid #4aaaa5 ;
     padding: 40px;
     position: absolute;
-    bottom: -154px;
+    bottom: -254px;
 }
 
 

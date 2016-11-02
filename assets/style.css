@@ -7,6 +7,9 @@
 	box-sizing: border-box;
 }
 
+.wrapper {
+	margin: 0 auto -100px;
+}
 
 
 #header {
@@ -190,7 +193,7 @@ footer {
     border-top: 8px solid #4aaaa5 ;
     padding: 40px;
     position: absolute;
-    bottom: 0px;
+    bottom: -150px;
 }
 
 
