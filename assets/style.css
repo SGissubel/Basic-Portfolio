@@ -53,30 +53,22 @@ h1 {
 }
 
 #About{
-	width: 20%;
-	padding: 20px;
+/*	width: 20%;
+*/	padding: 20px;
 	padding-left: 67%;
 }
 
 #Portfolio{
-	width: 20%;
-		padding: 20px;
+/*	width: 20%;
+*/		padding: 20px;
 
 }
 #Contact{
-	width: 20%;
-	padding: 20px;
+/*	width: 20%;
+*/	padding: 20px;
 
 }
 
-#About,
-#Portfolio,
-#Contact {
-	padding-top: 20px;
-	position: static;
-	text-align: center;
-	
-}
 
 #container{
 /*	border-bottom: solid;
@@ -97,12 +89,6 @@ h1 {
 	bottom: 0;
 }
 
-
-/*.body {
-	float: left;
-	display: inline-block;
-	clear: both;
-}*/
 
 .container {
 	width: 20%;
@@ -208,6 +194,4 @@ footer {
 }*/
 
 
-/*.container {
- 	text-decoration-line: underline;
- 	}
+
