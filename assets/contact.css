@@ -183,6 +183,12 @@ div {
     padding: 0px;
 }
 
+img:hover {
+  outline: 5px solid gray;
+  outline-offset: 1px;
+  -webkit-filter: grayscale(100%);
+}
+
 footer {
 	clear: both;
     background-color: #666666 ;
