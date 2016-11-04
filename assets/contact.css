@@ -13,7 +13,7 @@
 	background-color: white;
 	position: relative;	
 	margin: 0 0 2 0;
-	padding: 10px 10px 30px 10px;
+	padding: 10px 10px 15px 10px;
 	border-bottom: solid;
 	border-bottom-width: 2px;
 
@@ -51,7 +51,7 @@ h1 {
 	
 	width: 20%;
 		padding: 20px;
-		padding-left: 310px;
+		padding-left: 67%;
 }
 
 #Portfolio{
@@ -142,7 +142,7 @@ h1 {
 	position: relative;
 	background-color: white;
 	padding: 20px 40px 20px 30px;
-	margin-left: 62%;
+	margin-left: 67%;
 	margin-right: 17%;
 
 }

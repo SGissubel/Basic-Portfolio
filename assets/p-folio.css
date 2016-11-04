@@ -11,7 +11,7 @@
 	background-color: white;
 	position: relative;	
 	margin: 0 0 2 0;
-	padding: 10px 10px 30px 10px;
+	padding: 10px 10px 15px 10px;
 	border-bottom: solid;
 	border-bottom-width: 2px;
 
@@ -54,7 +54,7 @@ h1 {
 	
 	width: 20%;
 		padding: 20px;
-		padding-left: 310px;
+		padding-left: 67%;
 }
 
 #Portfolio{
@@ -79,8 +79,8 @@ h1 {
 
 #container{
 	
-	padding-left: 35px;
-	line-height: 50px;
+/*	padding-left: 35px;
+*/	line-height: 50px;
 }
 
 .container {
@@ -113,8 +113,8 @@ h1 {
 	padding-left: 30px;
 	padding-right: 30px;
 	float:left;
-	clear: both;
-}
+/*	clear: both;
+*/}
 
 #github {
 	height: 60px;
@@ -139,12 +139,45 @@ h1 {
 	position: relative;
 	background-color: white;
 	padding: 20px 40px 20px 30px;
-	margin-left: 62%;
+	margin-left: 67%;
 	margin-right: 17%;
 
 }
 
-#duckhunt,
+
+#row1,
+#row2 {
+	float: left;
+}
+
+#row1 {
+	padding-left: 0;
+	padding-right: 60px;
+}
+
+#row2 {
+	padding-right: 0;
+}
+
+#pictures p {
+	padding: 20px;
+	color: white;
+	font-size: 17px;
+	background-color: #08afa7;
+	position: relative;
+	text-align: center;
+	top: -75px;
+}
+
+#pictures {
+	position: relative;
+	float: left;
+	padding-right: 0;
+}
+
+
+
+/*#duckhunt,
 #moto,
 #virtual,
 #localbar,
@@ -186,7 +219,7 @@ h1 {
 	background: #08afa7;
 	padding: 20px; 
 	width: 250px;
-}
+}*/
 
 /*#bar span.spacer {
 	padding:0 5px;
