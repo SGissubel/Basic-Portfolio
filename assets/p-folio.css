@@ -82,6 +82,7 @@ h1 {
 	
 /*	padding-left: 35px;
 */	line-height: 50px;
+	padding-bottom: 15px;
 }
 
 .container {
@@ -248,8 +249,7 @@ footer {
     width: 100%;
     border-top: 8px solid #4aaaa5 ;
     padding: 40px;
-/*    position: absolute;
-*/    bottom: 0px;
+   bottom: 0px;
     vertical-align: bottom;
 }
 

@@ -79,6 +79,7 @@ h1 {
 	
 	padding-left: 35px;
 	line-height: 50px;
+	padding-bottom: 15px;
 }
 
 .container {
@@ -191,6 +192,16 @@ div {
 }
 
 footer {
+	clear: both;
+    background-color: #666666 ;
+    text-align: center;
+    width: 100%;
+    border-top: 8px solid #4aaaa5 ;
+    padding: 40px;
+   bottom: 0px;
+    vertical-align: bottom;
+}
+/*footer {
     background-color: #666666 ;
     text-align: center;
     width: 100%;
@@ -198,7 +209,7 @@ footer {
     padding: 40px;
     position: absolute;
     bottom: -254px;
-}
+}*/
 
 
 
